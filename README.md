@@ -17,7 +17,7 @@ I'm a Computer Engineering student at Universitas Indonesia, passionate about te
 
 Feel free to connect with me on these platforms:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/ivander-wijaya/))
+- [LinkedIn](https://www.linkedin.com/in/ivander-wijaya/)
 <!--- [Twitter](https://twitter.com/your-twitter-handle/)-->
 <!--- [Personal Website](https://your-website.com/)-->
 
