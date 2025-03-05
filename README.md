@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm Ivander! 👋
 
 I'm a Computer Engineering student at Universitas Indonesia, passionate about technology and always eager to learn new things. I consider myself a fast learner, always curious, and ready to face new challenges. I'm driven by my desire to help organizations achieve their goals through the power of software development. I pride myself on my ability to think outside the box and innovate new ways to accomplish tasks.
